@@ -1,0 +1,162 @@
+/* Set the height and width of the body to 100% */
+body {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  
+  
+}
+.p1{
+  font-family: 'titolo';
+}
+.p2{
+  font-family: 'titolo';
+}
+.h1{
+  font-family: 'titolo';
+}
+.p3{
+  font-family: 'testo';
+}
+.p4{
+  font-family: 'testo';
+}
+.p5{
+  font-family: 'testo';
+}
+.p6{
+  font-family: 'testo';
+}
+.p7{
+  font-family: 'testo';
+}
+.p8{
+  font-family: 'testo';
+}
+.p9{
+  font-family: 'testo';
+}
+.p10{
+  font-family: 'testo';
+} 
+.p11{
+  font-family: 'testo';
+}
+.p12{
+  font-family: 'testo';
+}
+.p13{
+  font-family: 'testo';
+}
+.p14{
+  font-family: 'testo';
+}
+
+@font-face {
+  font-family: titolo;
+  src: url(font_figo.ttf);
+}
+@font-face {
+  font-family: testo;
+  src: url(testo_figo.ttf);
+}
+/* Set the height and width of the menu */
+#menu {
+  position: fixed;
+  top: 0;
+  left: 0;
+  color: #e5b098;
+}
+/* Set the height and width of the content */
+/*  #content {
+  height: 100%;
+  width: calc(100% - 200px);
+  position: absolute;
+  top: 0;
+  right: 0;
+  overflow-y: scroll; 
+}
+ */
+/* Style the menu items */
+.menu-item {
+  font-size: 24px;
+  padding: 10px;
+  cursor: pointer;
+}
+
+/* Style the active menu item */
+.active {
+  background-color: #030303c2;
+  color: #e5b098;
+  
+}
+
+/* Style the content sections */
+.section {
+  height: 100vh;
+  width: 100%;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+/* Style the first section */
+#section1 {
+  background-color: #231D1E;
+  color: #E5B098;
+  
+  
+  
+}
+
+/* Style the second section */
+#section2 {
+  background-color: #C5DCCB;
+  color: #000000;
+  align-items: center;
+
+}
+
+/* Style the third section */
+#section3 {
+  background-color: #231D1E;
+  color: #E5B098;
+}
+/* Style the first section */
+#section4 {
+  background-color:#C5DCCB;
+  color: #000000;
+  
+}
+/* Style the first section */
+#section5 {
+  background-color: #231D1E;
+  color: #E5B098;
+  
+}
+.card {
+  background-color: #E5B098;
+  color: #231D1E;
+  border: 1px solid #E5B098;
+  border-radius: 5px;
+  padding: 10px;
+  margin: 10px;
+  box-sizing: border-box;
+}
+ /* Style the first section */
+#section6 {
+  background-color: #C5DCCB;
+  color: #000000;
+}
+/* Style the first section */
+#section7 {
+  background-color: #231D1E;
+  color: #E5B098;
+}
+.mappa{
+  margin-left: 50%;
+}
+.img1{
+  display: flex ;
+  margin-right : 90%;
+}
